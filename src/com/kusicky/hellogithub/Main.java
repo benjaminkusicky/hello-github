@@ -6,5 +6,6 @@ package com.kusicky.hellogithub;
 public class Main {
     public static void main(String[] args){
         System.out.println("Hello Github");
+        System.out.println(String.valueOf(System.currentTimeMillis()));
     }
 }
